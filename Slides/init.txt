@@ -1,0 +1,2 @@
+Slides for the 2024 edition of UNIL FGSE's course "Introduction to Scientific
+Programming with Python"
